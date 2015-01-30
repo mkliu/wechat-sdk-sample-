@@ -1,0 +1,2 @@
+# wechat-sdk-sample-
+test
